@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "fOjHbAuSFgVdkrT0azMp5jj4INxhWaigzAvaSEfwdkD6mkMhaghlBprHhf9c5ruLFjH/XIFMY4Ce8cZS5chyvw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\macie\\Documents\\GitHub\\APBD\\APBD2024\\APBD7\\LinqCwiczenia\\LinqTutorials\\LinqTutorials.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\macie\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\macie\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\macie\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\macie\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
