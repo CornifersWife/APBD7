@@ -349,7 +349,7 @@ namespace LinqTutorials {
                                 name = d.Dname,
                                 count = group.Count()
                             })
-                        .Where(x => x.count == 0 || x.count == 5) //isnull?
+                        .Where(x => x.count == 0 || x.count == 5)
                         .Select(x => x.name)
                         .Contains(dept.Dname))
                 .OrderBy(d => d.Dname);
