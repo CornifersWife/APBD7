@@ -4,9 +4,9 @@ namespace LinqTutorials
 {
     class Program
     {
-        static void Main(string[] args)
-        {
-            var t = LinqTasks.Task1();
+        
+        static void Main(string[] args) {
+            LinqTasks.Task1();
 
         }
     }
